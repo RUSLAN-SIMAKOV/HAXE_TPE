@@ -113,8 +113,13 @@ null
 
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_tabbottom_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_tab_selected_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_nme_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_winxp_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_map_jpg extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_win7_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_tab_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_tabbottom_selected_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_text_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_license_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_light_ttf extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_extrabolditalic_ttf extends null { }
@@ -127,6 +132,7 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_italic_ttf extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_regular_ttf extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_ui_index_xml extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_ui_ui_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_ui_skins_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__fonts_license_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__fonts_opensans_light_ttf extends null { }
