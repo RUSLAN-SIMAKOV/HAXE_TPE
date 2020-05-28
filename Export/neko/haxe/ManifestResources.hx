@@ -111,6 +111,10 @@ null
 #if !display
 #if flash
 
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_tabbottom_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_tab_selected_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_tab_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_img_tabbottom_selected_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_license_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_light_ttf extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_extrabolditalic_ttf extends null { }
@@ -122,6 +126,8 @@ null
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_semibolditalic_ttf extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_italic_ttf extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_fonts_opensans_regular_ttf extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_ui_index_xml extends null { }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_ui_skins_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__fonts_license_txt extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__fonts_opensans_light_ttf extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__fonts_opensans_extrabolditalic_ttf extends null { }
