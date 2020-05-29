@@ -24,6 +24,7 @@ To install type in terminal: haxelib install actuate
 * [StablexUI](https://github.com/RealyUniqueName/StablexUI) - UI engine for Haxe OpenFL. 
 To install type in terminal: haxelib install stablexui
 * [OpenFL](https://www.openfl.org/download/) - Library. 
+To install type in terminal: haxelib run openfl setup
 * [Lime](https://lib.haxe.org/p/lime/) - Framework.  
 To install type in terminal: haxelib install lime 7.7.0
 * [Neko](https://haxe.org/manual/target-neko.html) - Virtual Machine.   
